@@ -1,0 +1,8 @@
+D:\koodit\packetcapturething\packetcapturething\bin\Debug\packetcapturething.exe.config
+D:\koodit\packetcapturething\packetcapturething\bin\Debug\packetcapturething.exe
+D:\koodit\packetcapturething\packetcapturething\bin\Debug\packetcapturething.pdb
+D:\koodit\packetcapturething\packetcapturething\bin\Debug\PacketDotNet.dll
+D:\koodit\packetcapturething\packetcapturething\bin\Debug\SharpPcap.dll
+D:\koodit\packetcapturething\packetcapturething\obj\Debug\packetcapturething.csprojResolveAssemblyReference.cache
+D:\koodit\packetcapturething\packetcapturething\obj\Debug\packetcapturething.exe
+D:\koodit\packetcapturething\packetcapturething\obj\Debug\packetcapturething.pdb
